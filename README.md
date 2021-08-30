@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabmab159)](https://github.com/mabmab159/github-readme-stats)
 <!--
 **mabmab159/mabmab159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
