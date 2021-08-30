@@ -6,7 +6,7 @@ Hola soy Miguel Berrio,soy estudiante de la carrera de Ingeniería de sistemas. 
 
 <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabmab159&show_icons=true&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/mabmab159/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabmab159&theme=synthwave)](https://github.com/mabmab159/github-readme-stats)
 </div>
   <br>
 
