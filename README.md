@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-Hola soy Miguel Berrio, soy estudiante de la carrera de Ingeniería de sistemas. Soy un apasionado por la tecnología y su aplicación en las diferentes áreas de la vida, producto de ello me encuentro constantemente actualizándome y aprendiendo diferentes tecnología. Actualmente usando tecnologias tales como: Java, Javascript, HTML, CSS, Vue.
+Hola soy Miguel Berrio, soy estudiante de la carrera de Ingeniería de sistemas. Soy un apasionado por la tecnología y su aplicación en las diferentes áreas de la vida, producto de ello me encuentro constantemente actualizándome y aprendiendo diferentes tecnología. Actualmente usando tecnologias tales como: Java, Python, Javascript, HTML, CSS, Vue.
 </p>
 
 <div align="center">
