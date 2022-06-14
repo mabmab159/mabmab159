@@ -8,7 +8,6 @@ Hola soy Miguel Berrio, estudiante de la carrera de Ingeniería de sistemas. Soy
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabmab159&theme=synthwave)](https://github.com/mabmab159/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabmab159&langs_count=8)](https://github.com/mabmab159/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabmab159&layout=compact&theme=synthwave)](https://github.com/mabmab159/github-readme-stats)
 
 </div>
