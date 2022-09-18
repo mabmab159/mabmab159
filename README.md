@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
+<p align="justify">
 Hola soy Miguel Berrio, estudiante de la carrera de Ingeniería de sistemas. Soy un apasionado por la tecnología y su aplicación en las diferentes áreas de la vida, producto de ello me encuentro constantemente actualizándome y aprendiendo diferentes tecnología. Actualmente usando tecnologias tales como: Java(Spring), C#(.Net) PHP(Laravel, Symfony), Python(Selenium), Javascript(Vue, React), HTML, CSS. 
 </p>
 
